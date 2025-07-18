@@ -1,7 +1,7 @@
 # Root® Robot Documentation
 
-The [iRobot® Root® Coding Robot](https://edu.irobot.com/root) is a toy robot that teaches the basics of coding to kids of all ages and skill levels.
-The robots can programed using the companion iRobot Coding app on [iOS](https://apps.apple.com/us/app/irobot-coding/id1524652548), [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding), or [Web](https://code.irobot.com/).
+The [SAM Labs Root® Coding Robot](https://edu.irobot.com/root) (formerly from Root Robotics and iRobot) is a toy robot that teaches the basics of coding to kids of all ages and skill levels.
+The robots can programed using the companion SAM Root app on [iOS](https://apps.apple.com/us/app/sam-root/id1524652548), [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding), or [Web](https://root.samlabs.com/).
 Advanced users can also use the [iRobot Education Python Web Playground](https://python.irobot.com/) or downloadable [iRobot Education Python 3 SDK](https://github.com/iRobotEducation/irobot-edu-python-sdk) for even more control over the robots.
 
 ![Root drawing arcs with blue marker](images/root-drawing.jpg)
@@ -16,7 +16,7 @@ If Root is not responding as expected, hold the power button for 10 seconds to f
 
 > [!TIP]
 > The yellow nose button also acts as a "stop" button.
-> Pressing it while a program is running will immediately stop the motors and tell the iRobot Coding app to stop the running project.
+> Pressing it while a program is running will immediately stop the motors and tell the SAM Root app to stop the running project.
 
 ## Charging
 
@@ -52,9 +52,9 @@ Root robots are available to connect over Bluetooth whenever
 Once you connect to the robot, it will play a chime and the lights will briefly flash blue.
 To disconnect, trigger a disconnection from the app or turn off the robot by holding down the yellow nose button.
 
-To start, go to [code.irobot.com](https://code.irobot.com/) to use the iRobot Coding web app or download the iRobot Coding app from the [Apple App Store](https://apps.apple.com/app/id1524652548) or [Google Play Store](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding).
-To connect to robots when using the [web app](https://code.irobot.com/), you must use a browser that supports Web Bluetooth, such as [Chrome](https://www.google.com/chrome/) or [Edge](https://www.microsoft.com/edge).
-The iRobot Coding app features three coding levels (graphical, hybrid, and text) to support learners of all skill levels.
+To start, go to [root.samlabs.com](https://root.samlabs.com/) to use the SAM Root web app or download the SAM Root app from the [Apple App Store](https://apps.apple.com/app/id1524652548) or [Google Play Store](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding).
+To connect to robots when using the [web app](https://root.samlabs.com/), you must use a browser that supports Web Bluetooth, such as [Chrome](https://www.google.com/chrome/) or [Edge](https://www.microsoft.com/edge).
+The SAM Root app features three coding levels (graphical, hybrid, and text) to support learners of all skill levels.
 Once you have made a project, you can tap the robot connection button and select your robot to connect.
 Then press the play button to see your project come to life!
 
@@ -67,7 +67,7 @@ If you are having issues with your Bluetooth connection, please see the FAQ belo
 > [!TIP]
 > If you have multiple Root robots, give each one a unique name to make it easier to conenct to the right one.
 > Once you have connected to a robot, simply tap the connection button again and select "Rename".
-> When using the iRobot Coding app on iOS or Android, you can also touch the top of the robot or press the bumpers to highlight those areas on your robot in the Bluetooth connection window.
+> When using the SAM Root app on iOS or Android, you can also touch the top of the robot or press the bumpers to highlight those areas on your robot in the Bluetooth connection window.
 
 ## Model Comparison
 
@@ -75,7 +75,7 @@ If you are having issues with your Bluetooth connection, please see the FAQ belo
 | --- | --- | --- |
 | Model number | RT0 | RT1 |
 | **Software Compatibility** | | |
-| Multi-level iRobot Coding apps ([Web](https://code.irobot.com/), [iOS](https://apps.apple.com/app/id1524652548), [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding)) | ✓ | ✓ |
+| Multi-level SAM Root apps ([Web](https://root.samlabs.com/), [iOS](https://apps.apple.com/app/id1524652548), [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding)) | ✓ | ✓ |
 | Python Web Playground ([Web](https://python.irobot.com/)) | ✓ | ✓ |
 | Downloadable Python 3 SDK ([macOS, Windows, Linux](https://github.com/iRobotEducation/irobot-edu-python-sdk)) | ✓ | ✓ |
 | **Connectivity** | | |
@@ -185,8 +185,6 @@ When the robot detects an Upwards Facing Port (UFP), e.g. a USB device, rather t
 [This article](https://www.embedded.com/design/power-optimization/4458380/USB-Type-C-and-power-delivery-101-----Ports-and-connections) contains more information about USB-C cable configurations.
 
 ## Frequently Asked Questions
-
-Find additional answers and information at the full [iRobot Education Knowledge Base](https://experience.irobot.com/en/irobot-education-support).
 
 ### About
 
@@ -668,9 +666,11 @@ If both devices have enough charge, ensure that you are running the latest versi
 
 ## Trademarks
 
-iRobot and Root are registered trademarks of iRobot Corporation.
+SAM Labs and Root are registered trademarks of SAM Labs Inc.
 
-The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by iRobot is under license.
+iRobot and Create are registered trademarks of iRobot Corporation.
+
+The Bluetooth word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by SAM Labs is under license.
 
 Apple, App Store, iPadOS, and macOS are registered trademarks of Apple Inc.
 
