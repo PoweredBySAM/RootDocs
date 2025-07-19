@@ -9,6 +9,8 @@ It is currently built and sold by [SAM Labs](https://samlabs.com/) and was previ
 
 Root robots can programed using the companion **SAM Root** app available on [iOS](https://apps.apple.com/us/app/sam-root/id1524652548), [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding), or [Web](https://root.samlabs.com/).
 
+![Three coding levels](images/root-coding-levels.png)
+
 Advanced users can also use the [iRobot Education Python Web Playground](https://python.irobot.com/) or downloadable [iRobot Education Python 3 SDK](https://github.com/iRobotEducation/irobot-edu-python-sdk) for even more control over the robots.
 
 ## Turning Root On/Off
