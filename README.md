@@ -1,6 +1,6 @@
 # Root® Robot Documentation
 
-The [Root® Coding Robot](https://edu.irobot.com/root) is a toy robot that teaches coding basics to kids of all ages and skill levels through hands-on programming experiences.
+The [Root® Coding Robot](https://edu.irobot.com/root) is an educational robot that teaches coding basics to kids of all ages and skill levels through hands-on programming experiences.
 It is currently built and sold by [SAM Labs](https://samlabs.com/) and was previously manufactured by Root Robotics (2018-2019) and iRobot (2019-2024).
 
 ![Root drawing arcs with blue marker](images/root-drawing.jpg)
@@ -8,6 +8,8 @@ It is currently built and sold by [SAM Labs](https://samlabs.com/) and was previ
 ## Programming Root
 
 Root robots can programed using the companion **SAM Root** app available on [iOS](https://apps.apple.com/us/app/sam-root/id1524652548), [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding), or [Web](https://root.samlabs.com/).
+
+![Three coding levels](images/root-coding-levels.png)
 
 Advanced users can also use the [iRobot Education Python Web Playground](https://python.irobot.com/) or downloadable [iRobot Education Python 3 SDK](https://github.com/iRobotEducation/irobot-edu-python-sdk) for even more control over the robots.
 
