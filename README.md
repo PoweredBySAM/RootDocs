@@ -245,7 +245,7 @@ We encourage you to visit our [Learning Library](https://edu.irobot.com/learning
 No!
 Root® coding robots are designed to be exceptionally easy to get started and learn!
 The robots work right out of the box, without requiring any assembly.
-Simply turn on the robot, connect to it from the iRobot Coding app, and use one of the three intuitive programming levels to get started.
+Simply turn on the robot, connect to it from the SAM Root app, and use one of the three intuitive programming levels to get started.
 Check out the [Learning Library](https://edu.irobot.com/learning-library) for examples of ways to learn with with these robots.
 
 </details>
@@ -270,9 +270,9 @@ To connect to and control your Root® coding robot,
 - Place your Root® coding robot on a flat surface, such as the fold-out whiteboard that’s included in the box.
 - Power your Root® coding robot on by pressing and holding the robot’s yellow button (otherwise referred to as its “nose”) for three seconds until its LED lights turn on.
 - Power on your Bluetooth® Low Energy (BLE) device and ensure its Bluetooth® settings are active.
-- Open the iRobot Coding App on your BLE device ([Web](https://code.irobot.com/), [iOS](https://apps.apple.com/us/app/irobot-coding/id1524652548), or [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding)).
+- Open the SAM Root App on your BLE device ([Web](https://root.samlabs.com/), [iOS](https://apps.apple.com/us/app/sam-root/id1524652548), or [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding)).
 - Click on the plus (+) icon under the “My Projects” header in the Content Manager.
-- Open the Bluetooth® connection window by clicking on the Root® coding robot icon to the right of the project title in the Project Editor.
+- Open the Bluetooth® connection window by clicking on the Bluetooth icon to the right of the project title in the Project Editor.
 - Select the Root® coding robot that you would like to connect with.
 - Begin coding in the Project Editor!
 
@@ -283,7 +283,7 @@ For additional help and information on getting started, we invite you to explore
 <details>
 <summary><b>How do I update the firmware on my Root® coding robot?</b></summary>
 
-Normally, the iRobot Coding apps should detect the version of the firmware running on the robot and prompt you to update when needed.
+Normally, the SAM Root apps should detect the version of the firmware running on the robot and prompt you to update when needed.
 If you do not receive a prompt, you may manually update the robot by completing the following steps:
 1. Power off the robot by pressing and holding the robot’s yellow button (otherwise referred to as its “nose”) for three seconds until its LED lights turn off.
 2. Wait 10 seconds to make sure that the robot is fully powered off.
@@ -338,7 +338,7 @@ Each lesson includes 40-60+ minutes of outlined instruction with multiple engage
 - Reflection activity
 - Going further extensions
 
-By utilizing the multiple programming levels in the iRobot Coding App, each lesson provides multiple opportunities for every student to feel appropriately engaged and academically challenged, regardless of their coding background.
+By utilizing the multiple programming levels in the SAM Root app, each lesson provides multiple opportunities for every student to feel appropriately engaged and academically challenged, regardless of their coding background.
 This integrated scaffolding approach with the App and robot promotes a cohesive and inclusive classroom experience.
 Additionally, embedded math, ELA, science, and arts connections create cohesive, school-wide learning opportunities.
 
@@ -351,12 +351,12 @@ The curriculum is available in a digital format that allows you to conveniently 
 <details>
 <summary><b>Do I need an app to control the Root® coding robots?</b></summary>
 
-Yes. Root® coding robots are controlled over Bluetooth using the companion iRobot Coding app.
+Yes. Root® coding robots are controlled over Bluetooth using the companion SAM Root app.
 
-The iRobot Coding app is compatible with Bluetooth® Low Energy (BLE) devices running most major, up-to-date operating systems, including Windows, macOS, ChromeOS, Linux, iOS, iPadOS, and Android.
+The SAM Root app is compatible with Bluetooth® Low Energy (BLE) devices running most major, up-to-date operating systems, including Windows, macOS, ChromeOS, Linux, iOS, iPadOS, and Android.
 
-The iRobot Coding app can be downloaded from the [Apple App Store](https://apps.apple.com/app/id1524652548), [Google Play Store](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding), or used online at [code.irobot.com](https://code.irobot.com/).
-When connecting to your robot using the online [Web App](https://code.irobot.com/), please also ensure you are using a browser that supports Web Bluetooth, such as Chrome or Edge.
+The SAM Root app can be downloaded from the [Apple App Store](https://apps.apple.com/app/id1524652548), [Google Play Store](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding), or used online at [root.samlabs.com](https://root.samlabs.com/).
+When connecting to your robot using the online [Web App](https://root.samlabs.com/), please also ensure you are using a browser that supports Web Bluetooth, such as Chrome or Edge.
 
 Advanced users can also use the [iRobot Education Python Web Playground](https://python.irobot.com/) or downloadable [iRobot Education Python 3 SDK](https://github.com/iRobotEducation/irobot-edu-python-sdk) for even more control over the robots. 
 
@@ -365,8 +365,8 @@ Advanced users can also use the [iRobot Education Python Web Playground](https:/
 <details>
 <summary><b>What programming languages do the Root® coding robots teach?</b></summary>
 
-Root® coding robots are controlled by the companion learn-to-code iRobot Coding apps, which feature both an easy-to-learn block coding language and Python.
-The iRobot Coding app is available for free across [Web](https://code.irobot.com/), [iOS](https://apps.apple.com/app/id1524652548), and [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding) devices.
+Root® coding robots are controlled by the companion learn-to-code SAM Root apps, which feature both an easy-to-learn block coding language and Python.
+The SAM Root app is available for free across [Web](https://root.samlabs.com/), [iOS](https://apps.apple.com/app/id1524652548), and [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding) devices.
 It teaches key skills by separating learning to code into three (3) progressive Learning Levels.
 These Learning Levels are designed to scaffold how students learn to code by catering to any coding ability, from pre-readers to advanced users: 
 - **Learning Level 1** uses drag-and-drop, graphical blocks to teach sequencing and the fundamental logic skills.
@@ -382,10 +382,10 @@ The zero-installation Python coding environment known as the [iRobot Education P
 <details>
 <summary><b>Can I control the Root® coding robots from other programming environments?</b></summary>
 
-The Root® coding robots are designed to be used with the companion iRobot Coding app.
-The iRobot Coding app is compatible with devices running most major, up-to-date operating systems, including [Web](https://code.irobot.com/), [iOS](https://apps.apple.com/app/id1524652548), and [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding).
-In order to connect your Root® coding robots to the iRobot Coding app, your device requires Bluetooth® Low Energy (BLE) and (for the web app) a [Web Bluetooth](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API#browser_compatibility) supported browser like Chrome or Edge. 
-For experienced users, there are also the iRobot Python apps (BETA), which include a zero-installation Python coding environment on the web known as the [iRobot Education Python Web Playground](https://python.irobot.com/) or a downloadable [Python 3 SDK](https://github.com/iRobotEducation/irobot-edu-python-sdk).
+The Root® coding robots are designed to be used with the companion SAM Root app.
+The SAM Root app is compatible with devices running most major, up-to-date operating systems, including [Web](https://root.samlabs.com/), [iOS](https://apps.apple.com/app/id1524652548), and [Android](https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding).
+In order to connect your Root® coding robots to the SAM Root app, your device requires Bluetooth® Low Energy (BLE) and (for the web app) a [Web Bluetooth](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API#browser_compatibility) supported browser like Chrome or Edge. 
+For experienced users, there are also the Python apps (BETA), which include a zero-installation Python coding environment on the web known as the [iRobot Education Python Web Playground](https://python.irobot.com/) or a downloadable [Python 3 SDK](https://github.com/iRobotEducation/irobot-edu-python-sdk).
 
 Advanced developers can create their own libraries and projects that work with Root by utilizing the publically avilable [Bluetooth® Low Energy (BLE) protocol](https://github.com/RootRobotics/root-robot-ble-protocol) usedy by the Root robots.
 The protocol documentation should provide enough information for you to connect to and use the robot with any hardware that supports BLE using the programming language and Bluetooth® library of your choice.
@@ -597,11 +597,11 @@ We recommend that you leave the robot on a white surface for a few seconds befor
 Many connection issues on Android devices are caused by incorrect Bluetooth permissions.
 In Android, Bluetooth permissions are often included under “Location permissions”.
 On your device, confirm that:
-1. app-level Location permissions are enabled for the iRobot Coding app
+1. app-level Location permissions are enabled for the SAM Root app
 2. device-level Location permissions turned on
 3. Bluetooth is turned on
 
-To turn on app-level Location permissions for the iRobot Coding app, long press the app icon and open the “App info” screen. 
+To turn on app-level Location permissions for the SAM Root app, long press the app icon and open the “App info” screen. 
 From there, select “Permissions” → “Location” → “Allow only while using the app”. The app should also have requested this permission the first time it is opened.
 
 To turn on device-level Location permissions, open the “Settings” app and select “Location” → “Use location”
@@ -628,14 +628,13 @@ If you believe that you are experiencing this issue, please contact us with the 
 <details>
 <summary><b>Why are the lights on my Root® coding robot flashing blue?</b></summary>
 
-If your Root® coding robot is flashing blue with the eyes off, then the robot is in “update” mode. This can happen if a firmware update is started but fails to complete successfully.
+If your Root® coding robot is flashing blue with the eyes off, then the robot is in “update mode". This can happen if a firmware update is started but fails to complete successfully.
 
-To troubleshoot this occurrence, you can manually restart the firmware update by following the instructions below:
-1. Navigate to the [firmware updater page](https://code.irobot.com/update/index.html) using a Web Bluetooth® Low Energy (BLE) compatible browser, such as Chrome or Edge.
-2. Press the “Pair” button and select the "ROOT BOOT" robot from the connection list. You should only see devices that are in "update” mode as connection options on this page.
-3. Press the “Update” button and wait for the update to complete.
+To troubleshoot this occurrence, connect to the robot from the SAM Root app. (The robot name will be "ROOT BOOT".)
+Once connected, the app should prompt you to update.
+Press the “Update” button and wait for the update to complete.
 
-Alternatively, you may use the iOS or Android apps. When you connect to the robot from within the app, it should detect that the robot is in "update mode" and complete the firmware update process. Please contact us with a summary of your experience if you are not able to update your robot.
+Please contact us with a summary of your experience if you are not able to update your robot.
 
 </details>
 
@@ -655,7 +654,7 @@ Then, turn the robot back on by pressing the yellow button a second time.
 
 If the robot flashes red, the robot needs charging.
 If the robot flashes blue, the robot needs to complete a firmware update.
-If the robot does not move when you code a program and press play, ensure that Bluetooth is enabled and working and that the iRobot Coding app is properly connected to that robot.
+If the robot does not move when you code a program and press play, ensure that Bluetooth is enabled and working and that the SAM Root app is properly connected to that robot.
 You will need to reconnect to the robot after it is reset.
 
 If your robot is still misbehaving after being reset, please contact us for assistance.
@@ -667,7 +666,7 @@ If your robot is still misbehaving after being reset, please contact us for assi
 
 If the Bluetooth connection with your Root® coding robot keeps disconnectiong, try charging your robot and your device.
 A low battery can cause connectivity problems.
-If both devices have enough charge, ensure that you are running the latest version of the iRobot Coding app and that the firmware on your Root® coding robot is up to date. 
+If both devices have enough charge, ensure that you are running the latest version of the SAM Root app and that the firmware on your Root® coding robot is up to date. 
 
 </details>
 
